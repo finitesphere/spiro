@@ -8,7 +8,20 @@ Make sure you have the following installed:
 - **Java Development Kit (JDK)**: https://www.oracle.com/java/technologies/downloads/
 - **JavaFX SDK**: https://openjfx.io/
 
-### Instructions:
+## Instructions
+1. Clone the repository
+```
+git clone https://github.com/finitesphere/spiro
+```
+2. Navigate to the project directory 
+```
+cd spiro
+```
+3. Launch ```Spiro.exe```
+```
+.\Spiro.exe
+```
+### Instructions To compile the JAR:
 1. Clone the repository
 ```
 git clone https://github.com/finitesphere/spiro
@@ -25,5 +38,5 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 ### TO DO:
 - [X] Upload Java code with CSS
 - [X] Upload JAR file
-- [ ] Create an executable of the jar file
-- [ ] Add instructions to README.md
+- [X] Create an executable of the jar file
+- [X] Add instructions to README.md
