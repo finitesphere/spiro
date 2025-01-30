@@ -40,4 +40,5 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 - [X] Upload JAR file
 - [X] Create an executable of the jar file
 - [X] Add instructions to README.md
-- [ ] Include UML charts of the methods used in the program 
+- [ ] Include UML charts of the methods used in the program
+- [ ] Better UI
