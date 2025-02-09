@@ -42,3 +42,4 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 - [X] Add instructions to README.md
 - [ ] Include UML charts of the methods used in the program
 - [ ] Better UI
+- [ ] Ability to change volume
