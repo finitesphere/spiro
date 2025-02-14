@@ -44,3 +44,4 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 - [ ] Better UI
 - [ ] Ability to change volume
 - [ ] Proper settings window
+- [ ] Mobile app version
