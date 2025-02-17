@@ -45,4 +45,5 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 - [ ] Ability to change volume
 - [ ] Proper settings window
 - [ ] Mobile app version
-- [ ] Ability to rename song files 
+- [ ] Ability to rename song files
+- [ ] Ability to change speed of song
