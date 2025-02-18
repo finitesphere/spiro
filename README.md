@@ -47,3 +47,4 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 - [ ] Mobile app version
 - [ ] Ability to rename song files
 - [ ] Ability to change speed of song
+- [ ] Different audio visualizers to use
