@@ -49,3 +49,4 @@ java --module-path "C:\your\path\javafx-sdk\lib" --add-modules javafx.controls,j
 - [ ] Ability to change speed of song
 - [ ] Different audio visualizers to use
 - [ ] Advance audio settings
+- [ ] Audio visualizer settings
